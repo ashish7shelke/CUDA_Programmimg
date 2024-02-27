@@ -1,0 +1,2 @@
+D:\Programming\RTR\CUDA_Self_Learning\CudaMasterClass\CudaProgramming\02-HelloCuda\HelloCuda\x64\Debug\HelloCuda.exe
+D:\Programming\RTR\CUDA_Self_Learning\CudaMasterClass\CUDA_Programmimg\02-HelloCuda\HelloCuda\x64\Debug\HelloCuda.exe
