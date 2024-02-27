@@ -1,0 +1,2 @@
+D:\Programming\RTR\CUDA_Self_Learning\CudaMasterClass\CudaProgramming\01_FirstCuda\FirstProgram\x64\Debug\FirstProgram.exe
+D:\Programming\RTR\CUDA_Self_Learning\CudaMasterClass\CUDA_Programmimg\01_FirstCuda\FirstProgram\x64\Debug\FirstProgram.exe
